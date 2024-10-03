@@ -1,0 +1,839 @@
+{
+  "name": "任性小窝",
+  "author": "CQz",
+  "version": "1.0",
+  "description": "",
+  "fileApi": "https://gitee.com/cqz-cn/renxing-home/blob/master",
+  "files": [
+    {
+      "path": "addons/lucky/Water Lucky Block-v1.5.0.zip",
+      "hash": "7e96f3a599bcc05a3f0c9b81c69cf642503bb88b"
+    },
+    {
+      "path": "config/appleskin-client.toml",
+      "hash": "01ddb88e420140c33e4cfc0c105edd6e40a5f2c7"
+    },
+    {
+      "path": "config/connector.json",
+      "hash": "23753ccb810b4975165448040217d5c5d55a8322"
+    },
+    {
+      "path": "config/connectorextras_energy_bridge-common.toml",
+      "hash": "615697114a105b9baf73d3b15687abc13c741bcd"
+    },
+    {
+      "path": "config/detailarmorbar.json",
+      "hash": "b2d0097c8ebf7e7f6ab9c2cfe1388e3516f6cd49"
+    },
+    {
+      "path": "config/embeddium-fingerprint.json",
+      "hash": "dc6dbbbc29a35143753d694abaaad0bb5b8ca95f"
+    },
+    {
+      "path": "config/embeddium-mixins.properties",
+      "hash": "a729ee50d18cf2204ff9fc33bc21641d55185c88"
+    },
+    {
+      "path": "config/embeddium-options.json",
+      "hash": "ceb72441bae72fe17e3ecbc518ffcb8a90c87cff"
+    },
+    {
+      "path": "config/enchdesc.json",
+      "hash": "171e9e9bf1c0eb070d19730bf2eb2a2e049bfbbb"
+    },
+    {
+      "path": "config/fabric/indigo-renderer.properties",
+      "hash": "f7df32f5981591421544d0b174de1d1a2dd2558b"
+    },
+    {
+      "path": "config/fml.toml",
+      "hash": "5850d014d8cc0cb6e529a9630398080506f90262"
+    },
+    {
+      "path": "config/foodeffecttooltips-client.toml",
+      "hash": "0002ba8a31f0b25b63952de04104e1cf89c0ac3a"
+    },
+    {
+      "path": "config/forge-client.toml",
+      "hash": "5dcc032ce1e3d9e4a9552880f8de2e2c71fcdb1e"
+    },
+    {
+      "path": "config/gml-script-mods.toml",
+      "hash": "8c4fa9356c843f0f9f5aebf204992094433c1211"
+    },
+    {
+      "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+      "hash": "2bedb4d58a778b937dd9da01c50a46af9887709b"
+    },
+    {
+      "path": "config/inventoryprofilesnext/inventoryprofiles.json",
+      "hash": "58b81b870399a90daad1a3249c68c2d5bd18abf9"
+    },
+    {
+      "path": "config/inventoryprofilesnext/villager-trading-config.json",
+      "hash": "e2593acfcb9d84fa2c050b145242d28cc28fb25f"
+    },
+    {
+      "path": "config/jade/hide-blocks.json",
+      "hash": "8b3297cc5db5ed84dd48d2905fb21ee3063e0e25"
+    },
+    {
+      "path": "config/jade/hide-entities.json",
+      "hash": "548656ff89ad489730a4b5fdf071a6e98fcd5033"
+    },
+    {
+      "path": "config/jade/jade.json",
+      "hash": "2fb491dec13b7ad7d2f47f6b4a5a177efb31031c"
+    },
+    {
+      "path": "config/jade/plugins.json",
+      "hash": "6f4476a3f0bc43464393f31846975e335fdc098f"
+    },
+    {
+      "path": "config/jade/sort-order.json",
+      "hash": "3e782004232f79c8818d16408ae86f47aa33541c"
+    },
+    {
+      "path": "config/jei/blacklist.cfg",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "d3701bc4a8edcd093f88754b1fbe00e30c4c0d46"
+    },
+    {
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "dc48be3ecfb2cd9c06a53712b3044f8123a6c06e"
+    },
+    {
+      "path": "config/jei/jei-client.ini",
+      "hash": "7ffdcad158ac6fefe4ed625c7bbe7e07405032c3"
+    },
+    {
+      "path": "config/jei/jei-colors.ini",
+      "hash": "c973cab829ccdc4dd2d0f56ebd27b10e33678ad4"
+    },
+    {
+      "path": "config/jei/jei-debug.ini",
+      "hash": "dd6106bd2ac4a3d2b02793ee58e46fb5786f758c"
+    },
+    {
+      "path": "config/jei/jei-mod-id-format.ini",
+      "hash": "deff4edb19c6e15cc79c24d043e7cadc21adbfe7"
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "hash": "4cae3cfd4b615c45a7b7dfb5b8043dc81bfb7f8f"
+    },
+    {
+      "path": "config/jeresources-common.toml",
+      "hash": "6aa78dcf4043839e101c0b116a05d6e936272585"
+    },
+    {
+      "path": "config/jeresources.toml",
+      "hash": "5488c358d2c0aa830e73bc9795a1a18c36256407"
+    },
+    {
+      "path": "config/litematica/litematica_cqlemon.online.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+    },
+    {
+      "path": "config/litematica/litematica_cqlemon.online_dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98"
+    },
+    {
+      "path": "config/litematica.json",
+      "hash": "08ad26d1343b138bbf1e3fd9d6747edd845c98e5"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/bow_drops.txt",
+      "hash": "85bc569451ce03e0366d5e5f300b9bce98fceefb"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/drops.txt",
+      "hash": "2566c0d76f9f97f7da0370be02fb9bad4fb9b65f"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/luck_crafting.txt",
+      "hash": "a35e006f67579ca59675ba50e7b39b12c0f37d0e"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/natural_gen.txt",
+      "hash": "f52f4c8bcd0ff291b12a5abefe04032e555fddd9"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/potion_drops.txt",
+      "hash": "9d1f39b0c5a97b6096b645c6e883f6acd4a0f9de"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/properties.txt",
+      "hash": "f5f3e07f202a43835d98c011dcddcbdeb510fadf"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/acropolis.nbt",
+      "hash": "9e44e34ef4c9a7a83017e5ac2d06002264c4019e"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/bedrock_problem.luckystruct",
+      "hash": "242a32051c8a34de2644492ba7393937bc61b968"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/bouncing_castle.nbt",
+      "hash": "e729722eab9a1de6eae685b453776a8110366309"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/cage.nbt",
+      "hash": "80fc5cceab2330ae954b0282f653f1420dff2fdd"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/cage_sign.luckystruct",
+      "hash": "ab476279b4af4596eae3e871cf030dc01c6c4596"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/drill_hole.nbt",
+      "hash": "6b04197b3bbd8b49ca3396b108cf7d045f8dbb65"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/giant_blocks/break_stage_1.nbt",
+      "hash": "ac3d4474f0b613e30e0122230535aa6f0395306c"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/giant_blocks/break_stage_2.nbt",
+      "hash": "a2f2f165b5eba5a876c131a362ca18ef646363e4"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/giant_blocks/break_stage_3.nbt",
+      "hash": "1001eeee1915b1d1dd9b7f0274805591070aa52a"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/giant_blocks/break_stage_4.nbt",
+      "hash": "3f4c54bca0a88a7c9086a1ed65e1460a7c9717a1"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/giant_blocks/break_stage_5.nbt",
+      "hash": "a4d95bd8730261941f3dd16893c0023c5e9858f1"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/giant_blocks/lucky_block.nbt",
+      "hash": "7ecd798c6caecb02f9b9d8e20195ea715b3f2c14"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/giant_blocks/lucky_block_inner_bad.luckystruct",
+      "hash": "8aef3a7820fccf476403505ad47dc76e381d6fb0"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/giant_blocks/lucky_block_inner_good.luckystruct",
+      "hash": "08e27ad365c86985c4e5e8929f571b71778b6402"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/lucky_buildings/fort.nbt",
+      "hash": "650ab8e3a45e228ab44c42a57c04181dcffb7845"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/lucky_buildings/fort_inner.luckystruct",
+      "hash": "b516382be0ced3e8abce393ec0b16d6484ebe207"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/lucky_buildings/temple.nbt",
+      "hash": "492fbeb040594159d5f210e6edcb25a27827f581"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/lucky_buildings/temple_inner.luckystruct",
+      "hash": "82bdaa22c1bd75b66d6a80c7b8c5cb2d3f279df3"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/lucky_choice_left.luckystruct",
+      "hash": "35f817cef07b8575f4581c70f64d5e984c1a62a9"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/lucky_choice_right.luckystruct",
+      "hash": "6b97adc1370cb86dbba71437cbb9af8e8721a182"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/meteor.nbt",
+      "hash": "9df0cffb3e2f9517848d20a2a3d537ca1e979bb3"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/water_cage.nbt",
+      "hash": "02be6e334f9191037a3af482c737069c9276de19"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures/wishing_well.nbt",
+      "hash": "26af3269949f27c71e62bdc60af1ba6921adcb2f"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/structures.txt",
+      "hash": "7698b4d43ff190cc77cc9a07deff2cb895d0321d"
+    },
+    {
+      "path": "config/lucky/1.20.1-13.0-forge/sword_drops.txt",
+      "hash": "468b10f3a9f5a3825e46b60cd190ea955ba7a361"
+    },
+    {
+      "path": "config/malilib.json",
+      "hash": "38d9e77318ca57d5161d2aa76f26e0263dfa7f0e"
+    },
+    {
+      "path": "config/MouseTweaks.cfg",
+      "hash": "651b3e4db2d430dc1da3566b2984b264061a6794"
+    },
+    {
+      "path": "config/oculus.properties",
+      "hash": "60972838752e6c99399d7908d8d4a6fdcd3358dd"
+    },
+    {
+      "path": "config/replaymod.json",
+      "hash": "8b9379848cee0c3dd77ccb9b81c7ad77e73f6aaf"
+    },
+    {
+      "path": "config/skinlayers.json",
+      "hash": "adf51e37dc134068d806066ed3a25efb592f1557"
+    },
+    {
+      "path": "config/sodium-extra-options.json",
+      "hash": "8fc75d725728bed776bd034199cd49f8a42c69bf"
+    },
+    {
+      "path": "config/sodium-extra.properties",
+      "hash": "e90b2514226a0624cf42112b42477f9872598b89"
+    },
+    {
+      "path": "CustomSkinLoader/CustomSkinAPIPlus-ClientID",
+      "hash": "5c68cd9d3c295c45e4cb574708a4f9cb629f7822"
+    },
+    {
+      "path": "CustomSkinLoader/CustomSkinLoader.json",
+      "hash": "0cfe7fdfabf1a8c2e64ec37aec2c1112f753d291"
+    },
+    {
+      "path": "mods/.connector/malilib-fabric-1.20.1-0.16.3_mapped_srg_1.20.1.jar",
+      "hash": "74a30677de3f0bf4c55199243482db1004985e2d"
+    },
+    {
+      "path": "mods/.connector/malilib-fabric-1.20.1-0.16.3_mapped_srg_1.20.1.jar.input",
+      "hash": "df1d6e530ae10eaa7dd200855c1d9ef6e3244818"
+    },
+    {
+      "path": "mods/.connector/replaymod-1.20.1-2.6.15_mapped_srg_1.20.1.jar",
+      "hash": "8012f96bdc214f1d1ea0108f16de7fed844ec9a0"
+    },
+    {
+      "path": "mods/.connector/replaymod-1.20.1-2.6.15_mapped_srg_1.20.1.jar.input",
+      "hash": "0fed8207354e5f7d92e074771176e788fa2b69f1"
+    },
+    {
+      "path": "mods/.connector/temp/malilib-fabric-1.20.1-0.16.3$fabric-resource-loader-v0-0.11.7+f7923f6d77.jar",
+      "hash": "94dc0c900b801c263deb01a0e6e1ecc9ef7ea20c"
+    },
+    {
+      "path": "mods/.connector/temp/malilib-fabric-1.20.1-0.16.3$fabric-resource-loader-v0-0.11.7+f7923f6d77.jar.input",
+      "hash": "03752951ee26d2492a95a05042b35adf55d3dda4"
+    },
+    {
+      "path": "mods/.connector/temp/replaymod-1.20.1-2.6.15$fabric-api-base-0.4.29+b04edc7a77.jar",
+      "hash": "fc4d250390c237a8ff0ee0d63e279d973aec4f8a"
+    },
+    {
+      "path": "mods/.connector/temp/replaymod-1.20.1-2.6.15$fabric-api-base-0.4.29+b04edc7a77.jar.input",
+      "hash": "6b5995bb21fbf7676cce5e9ece495818c88369c1"
+    },
+    {
+      "path": "mods/.connector/temp/replaymod-1.20.1-2.6.15$fabric-key-binding-api-v1-1.0.36+fb8d95da77.jar",
+      "hash": "07445d1cf9452bcdefaa0b02dcc27c8f2e740e03"
+    },
+    {
+      "path": "mods/.connector/temp/replaymod-1.20.1-2.6.15$fabric-key-binding-api-v1-1.0.36+fb8d95da77.jar.input",
+      "hash": "2973bde4734e625b417786de9e971c10bbd59b14"
+    },
+    {
+      "path": "mods/.connector/temp/replaymod-1.20.1-2.6.15$fabric-networking-api-v1-1.3.8+b3afc78b77.jar",
+      "hash": "f9bc9e556d659a88355c97ec22bbf1fe6db1f9cb"
+    },
+    {
+      "path": "mods/.connector/temp/replaymod-1.20.1-2.6.15$fabric-networking-api-v1-1.3.8+b3afc78b77.jar.input",
+      "hash": "65700fee977f1625f1caf54b051ce76f9de9e800"
+    },
+    {
+      "path": "mods/.connector/temp/replaymod-1.20.1-2.6.15$fabric-resource-loader-v0-0.11.7+f7923f6d77.jar",
+      "hash": "566ac866f2758d0d614b5fd9bafd85b63c225dd7"
+    },
+    {
+      "path": "mods/.connector/temp/replaymod-1.20.1-2.6.15$fabric-resource-loader-v0-0.11.7+f7923f6d77.jar.input",
+      "hash": "ec7a1d7446cf4adf6f250922529c51e2b67a2ee6"
+    },
+    {
+      "path": "mods/.connector/temp/replaymod-1.20.1-2.6.15$fabric-screen-api-v1-2.0.6+b3afc78b77.jar",
+      "hash": "6e68008d9b78ac09e42b00d09830e1d5eb29bfe9"
+    },
+    {
+      "path": "mods/.connector/temp/replaymod-1.20.1-2.6.15$fabric-screen-api-v1-2.0.6+b3afc78b77.jar.input",
+      "hash": "9672620b1af5e61cb65c70e8dad255dcbfd65777"
+    },
+    {
+      "path": "mods/.connector/temp/[聊天动画] chatanimation-1.0.5$mixinextras-fabric-0.2.0-beta.9.jar",
+      "hash": "205e8146e48698f27ffe867bec8e645096e93457"
+    },
+    {
+      "path": "mods/.connector/temp/[聊天动画] chatanimation-1.0.5$mixinextras-fabric-0.2.0-beta.9.jar.input",
+      "hash": "d0dcf69c5fc3223c09f8f7b62a8f2b0d9fcf398c"
+    },
+    {
+      "path": "mods/.connector/[启动时间] startup_time-1.19.2-1.0.0_mapped_srg_1.20.1.jar",
+      "hash": "56cfc378c5c3e15292ce2affcfd2676718166f83"
+    },
+    {
+      "path": "mods/.connector/[启动时间] startup_time-1.19.2-1.0.0_mapped_srg_1.20.1.jar.input",
+      "hash": "a002a4a07a7e24b8ebc23f428de75d17f2b46ea6"
+    },
+    {
+      "path": "mods/.connector/[投影] litematica-fabric-1.20.1-0.15.3_mapped_srg_1.20.1.jar",
+      "hash": "618cda149c19ee7bdc924c97890766131bb725e6"
+    },
+    {
+      "path": "mods/.connector/[投影] litematica-fabric-1.20.1-0.15.3_mapped_srg_1.20.1.jar.input",
+      "hash": "f19aac8688775d7902130eb1d624415e0fc45cf8"
+    },
+    {
+      "path": "mods/.connector/[细节盔甲] DetailArmorBar-2.6.3+1.20.1-fabric_mapped_srg_1.20.1.jar",
+      "hash": "9b42883769d20b1750bbc4e87f853b3b72ab357a"
+    },
+    {
+      "path": "mods/.connector/[细节盔甲] DetailArmorBar-2.6.3+1.20.1-fabric_mapped_srg_1.20.1.jar.input",
+      "hash": "4590b719de30429bc9a205bcc7dcca525592c28d"
+    },
+    {
+      "path": "mods/.connector/[聊天动画] chatanimation-1.0.5$mixinextras-fabric-0.2.0-beta.9_mapped_srg_1.20.1.jar",
+      "hash": "a932f1e0eecd4310273aba59221d17a934460337"
+    },
+    {
+      "path": "mods/.connector/[聊天动画] chatanimation-1.0.5$mixinextras-fabric-0.2.0-beta.9_mapped_srg_1.20.1.jar.input",
+      "hash": "d0dcf69c5fc3223c09f8f7b62a8f2b0d9fcf398c"
+    },
+    {
+      "path": "mods/.connector/[聊天动画] chatanimation-1.0.5_mapped_srg_1.20.1.jar",
+      "hash": "e40da75b604fa4cfbbb79b1e813157a2e4a86244"
+    },
+    {
+      "path": "mods/.connector/[聊天动画] chatanimation-1.0.5_mapped_srg_1.20.1.jar.input",
+      "hash": "17470e81db3fd6cf7066556552129833244b6bf0"
+    },
+    {
+      "path": "mods/.connector/[隐藏“已修改”] HideModded-1.0.1_mapped_srg_1.20.1.jar",
+      "hash": "1e9792b6e34f69cfc6c23fd17b1b3cc82515590e"
+    },
+    {
+      "path": "mods/.connector/[隐藏“已修改”] HideModded-1.0.1_mapped_srg_1.20.1.jar.input",
+      "hash": "6a0de90ef05fa65eb01b0af19d8624563070c693"
+    },
+    {
+      "path": "mods/Bookshelf-Forge-1.20.1-20.2.13.jar",
+      "hash": "c53d9eb5ce9e8ef0f2ea9b11e478d84ce958c3e5"
+    },
+    {
+      "path": "mods/Connector-1.0.0-beta.44+1.20.1.jar",
+      "hash": "a16e97422f965f668ceb647a858eb04f12f7cf43"
+    },
+    {
+      "path": "mods/ConnectorExtras-1.11.2+1.20.1.jar",
+      "hash": "9336db4e6ce458bccf7724c039f0371e822397ae"
+    },
+    {
+      "path": "mods/embeddium-0.3.22+mc1.20.1.jar",
+      "hash": "042b7518c36f927400166edb2d85f3f92add87ef"
+    },
+    {
+      "path": "mods/fabric-api-0.92.2+1.11.8+1.20.1.jar",
+      "hash": "d5680a4d2e2dde45115e41a5e22f6b32f9c80f50"
+    },
+    {
+      "path": "mods/gml-4.0.9-all.jar",
+      "hash": "a751a912844f37c84e4d37d273517221964504bb"
+    },
+    {
+      "path": "mods/JustEnoughResources-1.20.1-1.4.0.247.jar",
+      "hash": "2747c58f439c37a01139d35cab59ca1a54114009"
+    },
+    {
+      "path": "mods/kotlinforforge-4.11.0-all.jar",
+      "hash": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5"
+    },
+    {
+      "path": "mods/libIPN-forge-1.20-4.0.2.jar",
+      "hash": "3e7c7fcdc037a6ae3d9146e718d87fc83f88f6d5"
+    },
+    {
+      "path": "mods/lucky-block-forge-1.20.1-13.0.jar",
+      "hash": "8fffcca3aa5fa8f934449bf7f1f3225cf629dad2"
+    },
+    {
+      "path": "mods/malilib-fabric-1.20.1-0.16.3.jar",
+      "hash": "94d4dd8a82e493d956b423019134d8c48ee737be"
+    },
+    {
+      "path": "mods/oculus-mc1.20.1-1.7.0.jar",
+      "hash": "27410903d3af950378776106b76503cfebe7ea3a"
+    },
+    {
+      "path": "mods/replaymod-1.20.1-2.6.15.jar",
+      "hash": "43585ef8dc0c50ebc79dfff9082bc10d94dff6e2"
+    },
+    {
+      "path": "mods/rubidium-extra-0.5.4.3+mc1.20.1-build.121.jar",
+      "hash": "af8b057d1b6a1844da59fa3680c4f847ea6a2aba"
+    },
+    {
+      "path": "mods/villedit-2.0.jar",
+      "hash": "248181ee9eb0acc12daf07257d7b924a9b3bb5a7"
+    },
+    {
+      "path": "mods/zmusic-forge-1.20-3.2.0.jar",
+      "hash": "0382c5cf6b72b004846941d004b56f77ca6ef6a7"
+    },
+    {
+      "path": "mods/[3D 皮肤层] skinlayers3d-forge-1.6.6-mc1.20.1.jar",
+      "hash": "4648dd206e13cf8b25f665e0462f29757787e683"
+    },
+    {
+      "path": "mods/[JEI物品管理器] jei-1.20.1-forge-15.3.0.8.jar",
+      "hash": "95aec36d76b4ce6601d3abbc2c2a3652565c9552"
+    },
+    {
+      "path": "mods/[WI变焦] WI-Zoom-1.5-MC1.20.1-Forge.jar",
+      "hash": "de100712cf2b7187a23f5cd726b93e576592979b"
+    },
+    {
+      "path": "mods/[一键背包整理Next] InventoryProfilesNext-forge-1.20-1.10.10.jar",
+      "hash": "4741ea1fd6d1593b693a389b7c6e1e47690ac3ad"
+    },
+    {
+      "path": "mods/[万用皮肤补丁] CustomSkinLoader_ForgeActive-14.19.1.jar",
+      "hash": "27845f67520078467ea0d3d8f223c93bcb62e222"
+    },
+    {
+      "path": "mods/[启动时间] startup_time-1.19.2-1.0.0.jar",
+      "hash": "040d6bfdde3335561f3a3d84964baec1e519b8b9"
+    },
+    {
+      "path": "mods/[投影] litematica-fabric-1.20.1-0.15.3.jar",
+      "hash": "427b04faee05fab436c52c3618e8e391a010b648"
+    },
+    {
+      "path": "mods/[玉 🔍] Jade-1.20.1-forge-11.9.4.jar",
+      "hash": "29b6d7c1c7742310cfaa2ea2964834561b9a8257"
+    },
+    {
+      "path": "mods/[细节盔甲] DetailArmorBar-2.6.3+1.20.1-fabric.jar",
+      "hash": "4ebf5767f28d700583e8ee0e91eab118657101d2"
+    },
+    {
+      "path": "mods/[经验机制改革] Clumps-forge-1.20.1-12.0.0.4.jar",
+      "hash": "97cc669f68dbe812cb77cc3631339334fc28b877"
+    },
+    {
+      "path": "mods/[聊天动画] chatanimation-1.0.5.jar",
+      "hash": "da00b90a05428c704ff29adbca52478ed086d0ec"
+    },
+    {
+      "path": "mods/[聊天头像] chat_heads-0.12.3-forge-1.20.jar",
+      "hash": "f9c77a78f811d47de87c73f453a14a3487d9be43"
+    },
+    {
+      "path": "mods/[苹果皮] appleskin-forge-mc1.20.1-2.5.1.jar",
+      "hash": "81919356f84eab14258db98924b66c3c38e372b1"
+    },
+    {
+      "path": "mods/[进食动画] eatinganimation-1.20.1-5.1.0.jar",
+      "hash": "d80502ca23195814f245bb8a4bffcb778ea4c02a"
+    },
+    {
+      "path": "mods/[附魔描述] EnchantmentDescriptions-Forge-1.20.1-17.0.16.jar",
+      "hash": "d7d874a5c2da9467f1c771ddc7fac747c8af2372"
+    },
+    {
+      "path": "mods/[食物效果显示Forge版] foodeffecttooltips+forge-1.20.1-1.3.0.jar",
+      "hash": "032c0ce96e81a967784c378e92e3cd499cca0f09"
+    },
+    {
+      "path": "mods/[鼠标手势] MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "hash": "d751153e722a4e014691c83f39f5b07c6ec5333c"
+    },
+    {
+      "path": "mod_data/gml/1.20.1/official.txt",
+      "hash": "6c48521eed01fe2e8ecdadbd5ae348415f3c47da"
+    },
+    {
+      "path": "mod_data/gml/1.20.1/README",
+      "hash": "e34ecab391fc183a8ddf99f2a5351ef8da0c1790"
+    },
+    {
+      "path": "mod_data/gml/1.20.1/srg.zip",
+      "hash": "c7d29380ddb38becad7c0819b5b325e43bca23f0"
+    },
+    {
+      "path": "mod_data/gml/1.20.1/version.json",
+      "hash": "4d11783833e4f28dbb3d4430c6e36ae65e2ef4eb"
+    },
+    {
+      "path": "options.txt",
+      "hash": "2f22fae5713e20054426db6371af210baf8bcffc"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "c33ce55646b8e8261d9e4e02743a8a7d659805b1"
+    },
+    {
+      "path": "servers.dat_old",
+      "hash": "c33ce55646b8e8261d9e4e02743a8a7d659805b1"
+    },
+    {
+      "path": "shaderpacks/BSL Standard v7.0p1.zip",
+      "hash": "868f9926d7b2a628db871fc5aed1473b1fd98f43"
+    },
+    {
+      "path": "shaderpacks/BSL v7.1p4.zip",
+      "hash": "03fbcf47a824a008931d60977b608321dc7d3b35"
+    },
+    {
+      "path": "shaderpacks/BSL v7.2 Dev-1(v8.0) kaniol汉化 Gamma TKRFIX.zip",
+      "hash": "d081fdbe080d7cc602c4a0b5e90d1cca8969b077"
+    },
+    {
+      "path": "shaderpacks/BSL_v7.1.04.1汉化版.zip",
+      "hash": "b4ff85f10d0e32ae8e4da8e29d497cee44346f82"
+    },
+    {
+      "path": "shaderpacks/BSL_v7.2.01pre1汉化版.zip",
+      "hash": "029709393aed52a87b2a1db1735b0ba63ef697aa"
+    },
+    {
+      "path": "shaderpacks/BSL_v7.2.01汉化版.zip",
+      "hash": "029709393aed52a87b2a1db1735b0ba63ef697aa"
+    },
+    {
+      "path": "shaderpacks/BSL_v8.0.01.zip",
+      "hash": "f25f7cfc8f56215738a02d7fe291aa3f871b2a68"
+    },
+    {
+      "path": "shaderpacks/BSL_v8.1.02.1 kaniol汉化 修改(1).zip",
+      "hash": "b7ca8a784ea9fea093d616b41740f477bac2fee1"
+    },
+    {
+      "path": "shaderpacks/BSL_v8.1.02.1 kaniol汉化.zip",
+      "hash": "b7ca8a784ea9fea093d616b41740f477bac2fee1"
+    },
+    {
+      "path": "shaderpacks/BSL_v8.1.02.1.zip",
+      "hash": "b7ca8a784ea9fea093d616b41740f477bac2fee1"
+    },
+    {
+      "path": "shaderpacks/BSL_v8.1p1 kaniol汉化 修改.zip",
+      "hash": "f0e68ab597e631ae1f50e9632d2409ff7d284f2a"
+    },
+    {
+      "path": "shaderpacks/BSL_v8.1p1 kaniol汉化.zip",
+      "hash": "f0e68ab597e631ae1f50e9632d2409ff7d284f2a"
+    },
+    {
+      "path": "shaderpacks/BSL_v8.2.01.zip",
+      "hash": "ddd94583683e3095ddc1db37f00752d9d92ec173"
+    },
+    {
+      "path": "shaderpacks/BSL_v8.2.03.1.zip",
+      "hash": "e58072f2dfbf2095fee49d3daec790668ca39e69"
+    },
+    {
+      "path": "shaderpacks/BSL_v8.2.zip",
+      "hash": "d41a003e744bae6ffaa69bd48aeeaeae588ab89f"
+    },
+    {
+      "path": "shaderpacks/Chocapic13_V8_Ultra_RC2.zip",
+      "hash": "d401e560ea2bbb3aeb2d7bbe5d6ecb9735a72039"
+    },
+    {
+      "path": "shaderpacks/Chocapic13_V9.1_Extreme_beta_5.zip",
+      "hash": "0a98d4f8409e9ffa1ab953e56d52aae0be17437d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r1.0.zip",
+      "hash": "8d3bcb3a3fd489bbf65a62cfa9ed37aaf1cda8f7"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r1.2.2-GammaOverride-NoBloom.zip",
+      "hash": "3491bf0023a013349b902d14fded2bdd0e70e633"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.1.1.zip",
+      "hash": "8738d99d8a78b7e7ea71b5c15a3432bc04eba715"
+    },
+    {
+      "path": "shaderpacks/ComplementaryShaders_v4.0.2.zip",
+      "hash": "9c5d1482f123a6a479b1bd3cff276b0fd62d3ded"
+    },
+    {
+      "path": "shaderpacks/ComplementaryShaders_v4.5-gama.zip",
+      "hash": "a0a3d5637e5202cf4d8fb81161bfcb84969635c7"
+    },
+    {
+      "path": "shaderpacks/ComplementaryShaders_v4.6.zip",
+      "hash": "42274da3fe2cd1847ff14a7699b411172cf3025d"
+    },
+    {
+      "path": "shaderpacks/ComplementaryShaders_v4.7.2.zip",
+      "hash": "c6957098a1f8ea27161289257ed14a8c5f10ba73"
+    },
+    {
+      "path": "shaderpacks/ComplementaryShaders_v4.7.zip",
+      "hash": "f6c226d4d166ab2fd4922aadbc1dcf4ff44c41d1"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.1.1.zip",
+      "hash": "65c7ef20fef4b5b03aa44afccbfdfdd82574c193"
+    },
+    {
+      "path": "shaderpacks/Continuum 1.3 - (Low-Ultra) Preview 3 RC1.zip",
+      "hash": "c4013dce5554294ca5f1f92cb7ef71d4827cca63"
+    },
+    {
+      "path": "shaderpacks/Continuum 2.0.4.zip",
+      "hash": "d624a740fccb5b24bf2600b13798ead04adcd6fe"
+    },
+    {
+      "path": "shaderpacks/CYBOXshaders V4 ULTRA Plain.zip",
+      "hash": "904f1f9ea4b630ffd04c6203d6ae11e73b826c60"
+    },
+    {
+      "path": "shaderpacks/Edi´s Shader OFFICIAL V3 ULTRA.zip",
+      "hash": "c6442678313c27c2dcc1421cfdf610ae02442a6f"
+    },
+    {
+      "path": "shaderpacks/Exposa+IMPORTANT+Update.zip",
+      "hash": "f3ab5e5fd29c4aa7e03551329ea19253404dc04c"
+    },
+    {
+      "path": "shaderpacks/iterationT 2.0.1.zip",
+      "hash": "9c891a4566576269fd84670d9518702bc19556b8"
+    },
+    {
+      "path": "shaderpacks/iterationT+Next+1.1.0.zip",
+      "hash": "822849600185fd448ac14789e5be8faffa3640fa"
+    },
+    {
+      "path": "shaderpacks/Kappa_v4.0.zip",
+      "hash": "8e51946921fe3afab6d3601c10a5b550c189e742"
+    },
+    {
+      "path": "shaderpacks/Kappa_v5.0a.zip",
+      "hash": "ec562b8bf1c7f311569c9d1b377294116435bb83"
+    },
+    {
+      "path": "shaderpacks/KUDA-Shaders v5.0.6 Ultra.zip",
+      "hash": "71c5a8bff59d414f999d4ed0fd8aabd9daa50390"
+    },
+    {
+      "path": "shaderpacks/KUDA-Shaders v6.1 Legacy.zip",
+      "hash": "98c98c449774c50091ee819861bdfda21d8b7303"
+    },
+    {
+      "path": "shaderpacks/Lux-EA-B3.zip",
+      "hash": "0a5e11d208653ccf7419310810954a51812b4354"
+    },
+    {
+      "path": "shaderpacks/NV-shaders+v5+beta1.zip",
+      "hash": "41f1fc54d0740a804ea3d1ad33c533964bae097e"
+    },
+    {
+      "path": "shaderpacks/Oceano+Shaders+3.0.1.zip",
+      "hash": "76d31e8eb7fac7280d738fbc3ca7af68d01672eb"
+    },
+    {
+      "path": "shaderpacks/photon-main.zip",
+      "hash": "60354df940e11c4cccb7245ee9c4387b40c1a565"
+    },
+    {
+      "path": "shaderpacks/Prismarine+V4.2a.zip",
+      "hash": "a4baf386249b4d316fece052ad4f5758037a2810"
+    },
+    {
+      "path": "shaderpacks/projectLUMA+-+v1.32.zip",
+      "hash": "9e319adf96598e6082ffb9bbe751c9e303c22a5e"
+    },
+    {
+      "path": "shaderpacks/RedHat_v34.0.zip",
+      "hash": "a5c762195b3f7db0311c1eceeb6fdb54397d2ffd"
+    },
+    {
+      "path": "shaderpacks/RRe36-shader_v10.1.zip",
+      "hash": "2198a0c04d7e97069f8aeba862ed077582eaa7fe"
+    },
+    {
+      "path": "shaderpacks/SEUS PTGI E12.zip",
+      "hash": "2e6f2870796a06cad493ea44354f10f65117392c"
+    },
+    {
+      "path": "shaderpacks/SEUS-Renewed-v1.0.1.zip",
+      "hash": "89e8eadd27ea53a78706a1aa339147a85331d7b2"
+    },
+    {
+      "path": "shaderpacks/SEUS_PTGI_E11.zip",
+      "hash": "b0eb4c65a8bb158b08ce2c18ae800a5e29116ff0"
+    },
+    {
+      "path": "shaderpacks/SEUS_PTGI_E12.zip",
+      "hash": "2e6f2870796a06cad493ea44354f10f65117392c"
+    },
+    {
+      "path": "shaderpacks/Sildur\u0027s+Vibrant+Shaders+v1.32+Extreme-VL.zip",
+      "hash": "733e1d606f8dde19479f62abec2153c645ab1b43"
+    },
+    {
+      "path": "shaderpacks/Sildurs Vibrant Shaders v1.19 High.zip",
+      "hash": "8b2bcde41ce1fe421a13fa436dec61cebdef8793"
+    },
+    {
+      "path": "shaderpacks/Sildurs Vibrant Shaders v1.23 Extreme-VL.zip",
+      "hash": "eb72b74fca5dc786c15882b0c3711453b6e38bdc"
+    },
+    {
+      "path": "shaderpacks/Sildurs_Vibrant_shaders_v1.06_Medium.zip",
+      "hash": "68eb44698fbef377983140ce665b696c4fa5ac6b"
+    },
+    {
+      "path": "shaderpacks/SMUS Final Edition.zip",
+      "hash": "19d075f0f0bf357786a133866858140c86d362c7"
+    },
+    {
+      "path": "shaderpacks/SMUS-Renewed-v0.1.5(Beta)(Fixed).zip",
+      "hash": "1541c8de7b60fb367fec34b696c3bb9e0538f450"
+    },
+    {
+      "path": "shaderpacks/SoftVoxelsLite_v1.0a.zip",
+      "hash": "60a748ddacc61a609c87e9fd13c7527107e8d055"
+    },
+    {
+      "path": "shaderpacks/Solas+Shader+V1.0.zip",
+      "hash": "cbaf520bcbc73158036d2106d5263b2c65ec9120"
+    },
+    {
+      "path": "shaderpacks/Sora_Shaders_1.142.zip",
+      "hash": "01180627586e5720f667c8600be9efb67230b29b"
+    },
+    {
+      "path": "shaderpacks/Sushi Shader V2 (Chocapic13 edit).zip",
+      "hash": "399b702b7baea8bf501dc145e4c083427183be86"
+    },
+    {
+      "path": "shaderpacks/UShader_v2.0.zip",
+      "hash": "a5e523b5771889119476173390b89ef3a45856ee"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.20.1"
+    },
+    {
+      "id": "forge",
+      "version": "47.3.10"
+    }
+  ]
+}
